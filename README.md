@@ -1,4 +1,4 @@
-![SpotifyLogo](https://cdn3.emoji.gg/emojis/SpotifyLogo.png width="50" height="50")  
+[![SpotifyLogo](https://cdn3.emoji.gg/emojis/SpotifyLogo.png)](https://emoji.gg/emoji/SpotifyLogo)
 # Spotify Explicitness Classifier
 
 ## 🪼 Introduction
